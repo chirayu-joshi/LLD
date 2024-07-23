@@ -5,3 +5,4 @@ Repository containing LLD principles with examples (diagrams not included. They 
 - Strategy Design Pattern
 - Observer Design Pattern
 - Decorator Design Pattern
+- Factory Design Pattern
