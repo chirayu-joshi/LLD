@@ -3,3 +3,4 @@ Repository containing LLD principles with examples (diagrams not included. They 
 ## What's included:
 - SOLID principles
 - Strategy Design Pattern
+- Observer Design Pattern
