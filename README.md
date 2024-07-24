@@ -6,3 +6,5 @@ Repository containing LLD principles with examples (diagrams not included. They 
 - Observer Design Pattern
 - Decorator Design Pattern
 - Factory Design Pattern
+- Design Parking Lot (Only README)
+- Design Tic Tac Toe
