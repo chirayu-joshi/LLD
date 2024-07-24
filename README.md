@@ -8,3 +8,4 @@ Repository containing LLD principles with examples (diagrams not included. They 
 - Factory Design Pattern
 - Design Parking Lot (Only README)
 - Design Tic Tac Toe
+- Design Elevator System
