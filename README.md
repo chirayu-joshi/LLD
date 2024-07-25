@@ -9,3 +9,4 @@ Repository containing LLD principles with examples (diagrams not included. They 
 - Design Parking Lot (Only README)
 - Design Tic Tac Toe
 - Design Elevator System
+- Car Rental System
