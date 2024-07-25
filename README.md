@@ -12,3 +12,4 @@ Repository containing LLD principles with examples (diagrams not included. They 
 - Design Car Rental System
 - Design Logging System (Chain of responsibility Design Pattern)
 - Design Snakes and Ladder game
+- Proxy Design Pattern
