@@ -14,3 +14,4 @@ Repository containing LLD principles with examples (diagrams not included. They 
 - Design Snakes and Ladder game
 - Proxy Design Pattern
 - Design BookMyShow
+- Null Object Design Pattern
