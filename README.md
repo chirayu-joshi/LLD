@@ -18,3 +18,4 @@ Repository containing LLD principles with examples (diagrams not included. They 
 - Vending Machine & State Design Pattern
 - Design ATM
 - Composite Design Pattern
+- Adapter Design Pattern
