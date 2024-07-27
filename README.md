@@ -16,3 +16,4 @@ Repository containing LLD principles with examples (diagrams not included. They 
 - Design BookMyShow
 - Null Object Design Pattern
 - Vending Machine & State Design Pattern
+- Design ATM
