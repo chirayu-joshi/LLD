@@ -17,3 +17,4 @@ Repository containing LLD principles with examples (diagrams not included. They 
 - Null Object Design Pattern
 - Vending Machine & State Design Pattern
 - Design ATM
+- Composite Design Pattern
