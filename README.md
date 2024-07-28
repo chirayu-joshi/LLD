@@ -19,3 +19,4 @@ Repository containing LLD principles with examples (diagrams not included. They 
 - Design ATM
 - Composite Design Pattern
 - Adapter Design Pattern
+- Design Splitwise
