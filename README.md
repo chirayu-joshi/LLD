@@ -21,3 +21,4 @@ Repository containing LLD principles with examples (diagrams not included. They 
 - Adapter Design Pattern
 - Design Splitwise
 - Builder Design Pattern
+- Design Cricbuzz
