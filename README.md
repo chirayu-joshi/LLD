@@ -20,3 +20,4 @@ Repository containing LLD principles with examples (diagrams not included. They 
 - Composite Design Pattern
 - Adapter Design Pattern
 - Design Splitwise
+- Builder Design Pattern
