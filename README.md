@@ -22,3 +22,4 @@ Repository containing LLD principles with examples (diagrams not included. They 
 - Design Splitwise
 - Builder Design Pattern
 - Design Cricbuzz
+- Facade Design Pattern
