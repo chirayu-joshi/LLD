@@ -24,3 +24,4 @@ Repository containing LLD principles with examples (diagrams not included. They 
 - Design Cricbuzz
 - Facade Design Pattern
 - Bridge Design Pattern
+- Prototype Design Pattern
