@@ -25,3 +25,4 @@ Repository containing LLD principles with examples (diagrams not included. They 
 - Facade Design Pattern
 - Bridge Design Pattern
 - Prototype Design Pattern
+- Inventory Management System
