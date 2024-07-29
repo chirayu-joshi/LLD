@@ -27,3 +27,4 @@ Repository containing LLD principles with examples (diagrams not included. They 
 - Prototype Design Pattern
 - Inventory Management System
 - Flyweight Design Pattern
+- Command Design Pattern
