@@ -30,3 +30,4 @@ Repository containing LLD principles with examples (diagrams not included. They 
 - Command Design Pattern
 - Iterator Design Pattern
 - Online Auction System (Mediator Design Pattern)
+- Apply Coupons (Decorator Design Pattern)
