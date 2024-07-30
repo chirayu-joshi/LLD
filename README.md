@@ -29,3 +29,4 @@ Repository containing LLD principles with examples (diagrams not included. They 
 - Flyweight Design Pattern
 - Command Design Pattern
 - Iterator Design Pattern
+- Online Auction System (Mediator Design Pattern)
