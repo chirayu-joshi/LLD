@@ -33,3 +33,4 @@ Repository containing LLD principles with examples (diagrams not included. They 
 - Apply Coupons (Decorator Design Pattern)
 - Visitor Design Pattern
 - Memento Design Pattern
+- Template Design Pattern
