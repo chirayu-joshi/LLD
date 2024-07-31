@@ -34,3 +34,4 @@ Repository containing LLD principles with examples (diagrams not included. They 
 - Visitor Design Pattern
 - Memento Design Pattern
 - Template Design Pattern
+- Interpreter Design Pattern
