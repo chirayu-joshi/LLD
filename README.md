@@ -32,3 +32,4 @@ Repository containing LLD principles with examples (diagrams not included. They 
 - Online Auction System (Mediator Design Pattern)
 - Apply Coupons (Decorator Design Pattern)
 - Visitor Design Pattern
+- Memento Design Pattern
